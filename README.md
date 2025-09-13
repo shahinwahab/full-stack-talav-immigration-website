@@ -1,7 +1,3 @@
-🌐 **Website Live:** <a href="https://talavimmigration.com" target="_blank" rel="noopener noreferrer">talavimmigration.com</a>
-
-
-
 # 🌍 TalavImmigration Platform
 
 **TalavImmigration** is a platform designed to simplify travel and immigration processes for Kurdish community and international travelers.  
