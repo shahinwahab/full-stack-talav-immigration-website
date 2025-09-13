@@ -60,9 +60,10 @@
 |:---------------:|
 |![footer ](ui/footer-15.png)|
 
-|home page mobile 16 🔽|
-|:---------------:|
-|![home page mobile ](ui\home-page-mobile-16.png)|
+| home page mobile 16 🔽 | home page mobile 17 🔽 |
+|:----------------------:|:----------------------:|
+| ![home page mobile](ui/home-page-mobile-16.png) | ![home page mobile](ui/home-page-mobile-17.png) |
+
 
 <p align="center">
   <a href="../docs/ui/">
