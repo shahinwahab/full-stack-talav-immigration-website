@@ -1,4 +1,5 @@
-🌐 **Website Live:** [talavimmigration.com](https://talavimmigration.com){:target="_blank"}
+🌐 **Website Live:** <a href="https://talavimmigration.com" target="_blank">talavimmigration.com</a>
+
 
 # 🌍 TalavImmigration Platform
 
