@@ -1,9 +1,5 @@
 # UI Gallery
 
-|home page mobile 0 🔽|
-|:---------------:|
-|![home page ](ui/home-page-mobile-0.png)|
-
 |home page 1 🔽|
 |:---------------:|
 |![home page ](ui/home-page-1.png)|
@@ -55,6 +51,10 @@
 |footer 13 🔽|
 |:---------------:|
 |![footer ](ui/footer-13.png)|
+
+|home page mobile 14 🔽|
+|:---------------:|
+|![home page ](ui/home-page-mobile-14.png)|
 
 <p align="center">
   <a href="../docs/ui/">
