@@ -1,60 +1,68 @@
 # UI Gallery
 
-|home page 1 🔽|
+|home page english 1 🔽|
 |:---------------:|
-|![home page ](ui/home-page-1.png)|
+|![home page english ](ui/home-page-english-1.png)|
 
-|home page 2 🔽|
+|home page english 2 🔽|
 |:---------------:|
-|![home page ](ui/home-page-2.png)|
+|![home page english ](ui/home-page-english-2.png)|
 
-|immigrate to canada page 3 🔽|
+|home page arabic 3 🔽|
 |:---------------:|
-|![immigrate to canada page ](ui/immigrate-to-canada-page-3.png)|
+|![home page arabic ](ui/home-page-arabic-3.png)|
 
-|immigrate to canada page 4 🔽|
+|home page kurdish 4 🔽|
 |:---------------:|
-|![immigrate to canada page ](ui/immigrate-to-canada-page-4.png)|
+|![home page kurdish ](ui/home-page-kurdish-4.png)|
 
-|study in netherlands page 5 🔽|
+|immigrate to canada page 5 🔽|
 |:---------------:|
-|![study in netherlands page ](ui/study-in-netherlands-page-5.png)|
+|![immigrate to canada page ](ui/immigrate-to-canada-page-5.png)|
 
-|study in netherlands page 6 🔽|
+|immigrate to canada page 6 🔽|
 |:---------------:|
-|![study in netherlands page ](ui/study-in-netherlands-page-6.png)|
+|![immigrate to canada page ](ui/immigrate-to-canada-page-6.png)|
 
-|talav form 7 🔽|
+|study in netherlands page 7 🔽|
 |:---------------:|
-|![talav form ](ui/talav-form-7.png)|
+|![study in netherlands page ](ui/study-in-netherlands-page-7.png)|
 
-|talav form 8 🔽|
+|study in netherlands page 8 🔽|
 |:---------------:|
-|![talav form ](ui/talav-form-8.png)|
+|![study in netherlands page ](ui/study-in-netherlands-page-8.png)|
 
-|talav booking 9 🔽|
+|talav form 9 🔽|
 |:---------------:|
-|![talav booking ](ui/talav-booking-9.png)|
+|![talav form ](ui/talav-form-9.png)|
 
-|contact us page 10 🔽|
+|talav form 10 🔽|
 |:---------------:|
-|![contact us page ](ui/contact-us-page-10.png)|
+|![talav form ](ui/talav-form-10.png)|
 
-|about us page 11 🔽|
+|talav booking 11 🔽|
 |:---------------:|
-|![about us page ](ui/about-us-page-11.png)|
+|![talav booking ](ui/talav-booking-11.png)|
 
-|about us page 12 🔽|
+|contact us page 12 🔽|
 |:---------------:|
-|![about us page ](ui/about-us-page-12.png)|
+|![contact us page ](ui/contact-us-page-12.png)|
 
-|footer 13 🔽|
+|about us page 13 🔽|
 |:---------------:|
-|![footer ](ui/footer-13.png)|
+|![about us page ](ui/about-us-page-13.png)|
 
-|home page mobile 14 🔽|
+|about us page 14 🔽|
 |:---------------:|
-|![home page ](ui/home-page-mobile-14.png)|
+|![about us page ](ui/about-us-page-14.png)|
+
+|footer 15 🔽|
+|:---------------:|
+|![footer ](ui/footer-15.png)|
+
+|home page mobile 16 🔽|
+|:---------------:|
+|![home page mobile ](ui\home-page-mobile-16.png)|
 
 <p align="center">
   <a href="../docs/ui/">

@@ -108,21 +108,21 @@ Its responsive design ensures accessibility across all devices such as mobile, t
 
 ## UI Preview
 
-|Home page 1 🔽|
+|home page english 1 🔽|
 |:---------------:|
-|![Home page ](docs/ui/Home-page-1.png)|
+|![home page english ](docs/ui/home-page-english-1.png)|
 
-|Home page 2 🔽|
+|home page english 2 🔽|
 |:---------------:|
-|![Home page ](docs\ui\home-page-2.png)|
+|![home page english ](docs/ui/home-page-english-2.png)|
 
-|immigrate to canada page 3 🔽|
+|home page arabic 3 🔽|
 |:---------------:|
-|![immigrate to canada page ](docs\ui\immigrate-to-canada-page-3.png)|
+|![home page arabic ](docs/ui/home-page-arabic-3.png)|
 
-|immigrate to canada page 4 🔽|
+|home page kurdish 4 🔽|
 |:---------------:|
-|![immigrate to canada page ](docs\ui\immigrate-to-canada-page-4.png)|
+|![home page kurdish ](docs/ui/home-page-kurdish-4.png)|
 <p align="center">
   <a href="docs/ui-gallery.md">
     <img src="https://img.shields.io/badge/See%20All%20UI%20Images-2b90d9" alt="See All UI Images" width="200" height="50">
