@@ -1,4 +1,4 @@
-🌐 **Website Live:** [talavimmigration.com](https://talavimmigration.com)
+🌐 **Website Live:** [talavimmigration.com](https://talavimmigration.com){:target="_blank"}
 
 # 🌍 TalavImmigration Platform
 
