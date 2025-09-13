@@ -112,10 +112,6 @@ Its responsive design ensures accessibility across all devices such as mobile, t
 |:---------------:|
 |![home page english ](docs/ui/home-page-english-1.png)|
 
-|home page english 2 🔽|
-|:---------------:|
-|![home page english ](docs/ui/home-page-english-2.png)|
-
 |home page arabic 3 🔽|
 |:---------------:|
 |![home page arabic ](docs/ui/home-page-arabic-3.png)|
