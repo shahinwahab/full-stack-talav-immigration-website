@@ -60,9 +60,9 @@
 |:---------------:|
 |![footer ](ui/footer-15.png)|
 
-| home page mobile 16 🔽 | home page mobile 17 🔽 |
-|:----------------------:|:----------------------:|
-| ![home page mobile](ui/home-page-mobile-16.png) | ![home page mobile](ui/home-page-mobile-17.png) |
+| home page mobile 16 🔽 | home page mobile 17 🔽 | footer mobile 18 🔽 |
+|:----------------------:|:----------------------:|:----------------------:|
+| ![home page mobile](ui/home-page-mobile-16.png) | ![home page mobile](ui/home-page-mobile-17.png) |![footer mobile](ui/footer-mobile-18.png) |
 
 
 <p align="center">
